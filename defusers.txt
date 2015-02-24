@@ -1,0 +1,8 @@
+You can Russia from land here in Alaska.
+0 1 1 2 3 5
+3 726
+12 3
+5 115
+4 2 6 1 5 3
+
+
